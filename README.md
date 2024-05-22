@@ -2,7 +2,6 @@
 - 👀 I’m interested in IT and digital marketing
 - 🌱 I’m currently learning to be a full time web developer
 - 💞️ I’m looking to collaborate on anything IT based.
-- 📫 How to reach me colinnyaoda009@gmail.com
 
 <!---
 Xmencole8/Xmencole8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
